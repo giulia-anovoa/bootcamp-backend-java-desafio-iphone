@@ -1,6 +1,7 @@
----
-title: Desafio iPhone
----
+```markdown
+# Desafio iPhone
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +void tocar()
